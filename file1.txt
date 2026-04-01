@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master change
+=======
+BranchA change
+>>>>>>> branchA
